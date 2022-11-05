@@ -2,3 +2,15 @@ bin
 include
 lib
 pyenv.cfg
+avg-block-size.csv
+fees-usd-per-transaction.csv
+hash-rate.csv
+market-price.csv
+mempool-count.csv
+miners-revenue.csv
+n-transactions-per-block.csv
+new_data.csv
+transaction-fees-usd.csv
+transaction-fees.csv
+
+
