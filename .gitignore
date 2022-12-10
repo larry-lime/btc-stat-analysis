@@ -13,3 +13,7 @@ new_data.csv
 transaction-fees-usd.csv
 transaction-fees.csv
 tasks.md
+dataset.csv
+.idea
+temp
+.DS_Store
